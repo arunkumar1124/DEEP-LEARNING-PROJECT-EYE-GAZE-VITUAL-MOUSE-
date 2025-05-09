@@ -55,7 +55,7 @@ Eye tracking and voice recognition run concurrently using threading.
 bash
 Copy
 Edit
-git clone https://github.com/your-username/eye-gaze-virtual-mouse.git
+git clone [https://github.com/your-username/eye-gaze-virtual-mouse.git](https://github.com/arunkumar1124/DEEP-LEARNING-PROJECT-EYE-GAZE-VITUAL-MOUSE-.git)
 cd eye-gaze-virtual-mouse
 pip install -r requirements.txt
 ▶️ Running the Application
